@@ -1,6 +1,8 @@
-Title: Yang Sering Ditanyakan (FAQ)
+Title: Tentang
 Url: faq/index.html
 Save_as: faq/index.html
+
+# Yang Sering Ditanyakan (F.A.Q)
 
 ## Situs apakah ini?
 Situs [Bahasa.Isyarat.ID](https://bahasa.isyarat.id) dibuat untuk teman-teman yang ingin belajar bahasa isyarat,
@@ -69,3 +71,7 @@ setiap melakukan gerakan disertai dengan wajah dan gerakan bibir yang pas.
 - Mencari komunitas teman tuli di daerah masing-masing dan membagikan informasinya
 - Kalau kamu pembuat video, jangan lupa sertakan teks agar teman tuli bisa ikut belajar/menikmati hiburannya. 
 
+
+## Kontak
+Untuk informasi, masukan, komplen terkait konten di situs ini, mohon mengirim email ke 
+[bahasaisyarat@proudlyindonesian.org](mailto:bahasaisyarat@proudlyindonesian.org)
